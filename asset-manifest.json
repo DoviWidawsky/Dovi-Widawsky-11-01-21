@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Weather-App/static/css/main.6561a35b.chunk.css",
-    "main.js": "/Weather-App/static/js/main.81690ceb.chunk.js",
-    "main.js.map": "/Weather-App/static/js/main.81690ceb.chunk.js.map",
-    "runtime-main.js": "/Weather-App/static/js/runtime-main.69ab840d.js",
-    "runtime-main.js.map": "/Weather-App/static/js/runtime-main.69ab840d.js.map",
-    "static/js/2.120a66c2.chunk.js": "/Weather-App/static/js/2.120a66c2.chunk.js",
-    "static/js/2.120a66c2.chunk.js.map": "/Weather-App/static/js/2.120a66c2.chunk.js.map",
-    "static/js/3.a5e57949.chunk.js": "/Weather-App/static/js/3.a5e57949.chunk.js",
-    "static/js/3.a5e57949.chunk.js.map": "/Weather-App/static/js/3.a5e57949.chunk.js.map",
-    "index.html": "/Weather-App/index.html",
-    "static/css/main.6561a35b.chunk.css.map": "/Weather-App/static/css/main.6561a35b.chunk.css.map",
-    "static/js/2.120a66c2.chunk.js.LICENSE.txt": "/Weather-App/static/js/2.120a66c2.chunk.js.LICENSE.txt"
+    "main.css": "/Dovi-Widawsky-11-01-21/static/css/main.6561a35b.chunk.css",
+    "main.js": "/Dovi-Widawsky-11-01-21/static/js/main.81690ceb.chunk.js",
+    "main.js.map": "/Dovi-Widawsky-11-01-21/static/js/main.81690ceb.chunk.js.map",
+    "runtime-main.js": "/Dovi-Widawsky-11-01-21/static/js/runtime-main.23419efb.js",
+    "runtime-main.js.map": "/Dovi-Widawsky-11-01-21/static/js/runtime-main.23419efb.js.map",
+    "static/js/2.120a66c2.chunk.js": "/Dovi-Widawsky-11-01-21/static/js/2.120a66c2.chunk.js",
+    "static/js/2.120a66c2.chunk.js.map": "/Dovi-Widawsky-11-01-21/static/js/2.120a66c2.chunk.js.map",
+    "static/js/3.a5e57949.chunk.js": "/Dovi-Widawsky-11-01-21/static/js/3.a5e57949.chunk.js",
+    "static/js/3.a5e57949.chunk.js.map": "/Dovi-Widawsky-11-01-21/static/js/3.a5e57949.chunk.js.map",
+    "index.html": "/Dovi-Widawsky-11-01-21/index.html",
+    "static/css/main.6561a35b.chunk.css.map": "/Dovi-Widawsky-11-01-21/static/css/main.6561a35b.chunk.css.map",
+    "static/js/2.120a66c2.chunk.js.LICENSE.txt": "/Dovi-Widawsky-11-01-21/static/js/2.120a66c2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.69ab840d.js",
+    "static/js/runtime-main.23419efb.js",
     "static/js/2.120a66c2.chunk.js",
     "static/css/main.6561a35b.chunk.css",
     "static/js/main.81690ceb.chunk.js"
