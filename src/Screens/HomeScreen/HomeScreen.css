@@ -1,0 +1,39 @@
+.home-container{
+    display: flex;
+    padding-top: 70px;
+    margin-right: 50px;
+    margin-left: 50px;
+    flex-direction: column;
+    align-items: center;
+    color: var(--secondary-color);
+}
+
+.searchBar {
+    padding-bottom: 40px;
+}
+
+.infoHeader {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding-bottom: 40px;
+    justify-content: space-between;
+}
+
+.infotitle {
+    font-size: 32px;
+}
+
+.currentWeather {
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.WeekForcastComponent {
+    margin: 5px;
+}
+
+.week-day-forecast {
+    display: flex;
+}

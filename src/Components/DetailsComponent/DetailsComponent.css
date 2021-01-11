@@ -1,0 +1,7 @@
+.details-container {
+    display: flex;
+    flex-direction: column;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
